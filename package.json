@@ -1,0 +1,30 @@
+{
+  "name": "api_rest",
+  "version": "1.0.0",
+  "description": "api rest para treinar criação de api na arquitetura rest",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/limapedro77/api_rest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/limapedro77/api_rest/issues"
+  },
+  "homepage": "https://github.com/limapedro77/api_rest#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.39.2",
+    "eslint": "^9.39.2",
+    "globals": "^17.1.0"
+  }
+}
